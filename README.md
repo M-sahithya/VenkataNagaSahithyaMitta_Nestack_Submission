@@ -68,7 +68,7 @@ Nestack_Submission/
 ### Step 1: Clone the repository
 
 ```bash
-git clone <YOUR_PRIVATE_REPOSITORY_URL>
+git clone <https://github.com/M-sahithya/VenkataNagaSahithyaMitta_Nestack_Submission>
 cd Nestack_Submission
 ```
 
